@@ -1,0 +1,4 @@
+2024-02-23 10:30:05, INFO Query: q=error&rows=10&start=0, Response Time: 512ms, Status: 200
+2024-02-23 10:30:10, INFO Query: q=search&rows=5&start=0, Response Time: 220ms, Status: 200
+2024-02-23 10:30:15, INFO Query: q=database&rows=8&start=0, Response Time: 740ms, Status: 200
+
