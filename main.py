@@ -3,7 +3,7 @@ from src.analysis import slow_queries, frequent_queries
 from src.visualize import plot_response_time_distribution, plot_query_performance_over_time
 
 # Load and parse logs
-log_file = "data/sample_logs.txt"
+log_file = "data/sample_large_logs.txt"
 df = parse_logs(log_file)
 
 # Analyze Logs
